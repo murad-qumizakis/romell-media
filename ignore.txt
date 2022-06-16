@@ -1,0 +1,131 @@
+        <!-- <section class="section-features">
+            <div class="why-section">
+                <!-- <h2>Why Romell Media Was Created</h2> -->
+            </div>
+            <div class="row">
+                <div class="col-1-of-4">
+                    <div class="feature-box">
+
+
+                        <p class="feature-box__text">
+                            We all know the time best spent for an e-commerce store owner is on their products, and
+                            creating systems for the business. Not wasting time running ads, or managing advertisers.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-1-of-4">
+                    <div class="feature-box">
+
+                        <!-- <h3 class="heading-tertiary u-margin-bottom-small"></h3> -->
+                        <p class="feature-box__text">
+                            Brand new 2022 Data shows us wasted ad spend is at an all time high (on average 40%). This
+                            is money with no return on investment, straight down the drain.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-1-of-4">
+                    <div class="feature-box">
+
+                        <!-- <h3 class="heading-tertiary u-margin-bottom-small"></h3> -->
+                        <p class="feature-box__text">
+                            Large advertising agency’s with fancy offices, and huge teams are expensive to work with,
+                            have unnecessary running costs, and are slow to communicate on the fly. These agency’s
+                            priorise volume, size, and reputation of their clients. Rather than a strict focus on
+                            performance.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-1-of-4">
+                    <div class="feature-box">
+
+                        <!-- <h3 class="heading-tertiary u-margin-bottom-small">Live a healthier life</h3> -->
+                        <p class="feature-box__text">
+                            To escape the 9 to 5 and empower others on the same path
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-tours" id="section-tours">
+            <div class="u-center-text u-margin-bottom-big">
+                <!-- <h2 class="heading-secondary">
+                    What do we look for when selecting clients?
+                </h2> -->
+            </div>
+
+            <div class="row">
+                <div class="col-1-of-3">
+                    <div class="card">
+                        <div class="card__side card__side--front">
+                            <div class="card__picture card__picture--1">
+                                &nbsp;
+                            </div>
+                            <h4 class="card__heading">
+                                <span class="card__heading-span card__heading-span--1">Culture</span>
+                            </h4>
+                        </div>
+                        <div class="card__side card__side--back card__side--back-1">
+                            <div class="card__cta">
+                                <div class="card__price-box">
+                                    <p class="card__price-value">Culture fit with our agency</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-1-of-3">
+                    <div class="card">
+                        <div class="card__side card__side--front">
+                            <div class="card__picture card__picture--2">
+                                &nbsp;
+                            </div>
+                            <h4 class="card__heading">
+                                <span class="card__heading-span card__heading-span--2">Value</span>
+                            </h4>
+
+
+                        </div>
+                        <div class="card__side card__side--back card__side--back-2">
+                            <div class="card__cta">
+                                <div class="card__price-box">
+
+                                    <p class="card__price-value">Value on both ends</p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-1-of-3">
+                    <div class="card">
+                        <div class="card__side card__side--front">
+                            <div class="card__picture card__picture--3">
+                                &nbsp;
+                            </div>
+                            <h4 class="card__heading">
+                                <span class="card__heading-span card__heading-span--3">Learn</span>
+                            </h4>
+
+
+                        </div>
+                        <div class="card__side card__side--back card__side--back-3">
+                            <div class="card__cta">
+                                <div class="card__price-box">
+
+                                    <p class="card__price-value">Willingness to Learn</p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </section>
